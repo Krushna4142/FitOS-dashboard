@@ -10,13 +10,18 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
 </div>
+<img width="1907" height="972" alt="Image" src="https://github.com/user-attachments/assets/41e8fd9f-c1d1-4957-906d-6c9383779844" />
+<img width="1919" height="973" alt="Image" src="https://github.com/user-attachments/assets/a01f1167-1364-4ff5-aea1-b09f09e05045" />
+<img width="1901" height="985" alt="Image" src="https://github.com/user-attachments/assets/7800e25e-490f-480a-bf68-3e2479a2ad7c" />
+<img width="1266" height="816" alt="Image" src="https://github.com/user-attachments/assets/2735f709-02c7-4452-add9-b14de87c0923" />
 
+<img width="1920" height="1659" alt="Image" src="https://github.com/user-attachments/assets/dd4d4d2b-0d44-485e-a56a-b441b838eef0" />
 ---
 
 ## 📸 Live Screenshots
 
 ### 🏠 Dashboard Overview
-[![Dashboard Overview](https://github.com/user-attachments/assets/dashboard-overview.png)](https://github.com/user-attachments/assets/dashboard-overview.png)
+[![Dashboard Overview](https://github.com/user-attachments/assets/41e8fd9f-c1d1-4957-906d-6c9383779844)](https://github.com/user-attachments/assets/41e8fd9f-c1d1-4957-906d-6c9383779844)
 *Complete health dashboard with metrics, analytics, and wellness tracking*
 
 ### 🤖 AI Health Assistant  

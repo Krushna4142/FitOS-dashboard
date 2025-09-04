@@ -11,24 +11,44 @@
 
 </div>
 
+---
 
 ## 📸 Live Screenshots
 
 ### 🏠 Dashboard Overview
-[![Dashboard Overview](https://github.com/user-attachments/assets/41e8fd9f-c1d1-4957-906d-6c9383779844)](https://github.com/user-attachments/assets/41e8fd9f-c1d1-4957-906d-6c9383779844)
+<a href="https://github.com/user-attachments/assets/41e8fd9f-c1d1-4957-906d-6c9383779844" target="_blank">
+  <img src="https://github.com/user-attachments/assets/41e8fd9f-c1d1-4957-906d-6c9383779844" alt="Dashboard Overview" width="800"/>
+</a>
+
 *Complete health dashboard with metrics, analytics, and wellness tracking*
 
 ### 🤖 AI Health Assistant  
-[![AI Assistant](https://github.com/user-attachments/assets/ai-assistant.png)](https://github.com/user-attachments/assets/ai-assistant.png)
+<a href="https://github.com/user-attachments/assets/a01f1167-1364-4ff5-aea1-b09f09e05045" target="_blank">
+  <img src="https://github.com/user-attachments/assets/a01f1167-1364-4ff5-aea1-b09f09e05045" alt="AI Health Assistant" width="800"/>
+</a>
+
 *Intelligent health guidance with personalized recommendations*
 
 ### 🔐 Authentication System
-[![Login System](https://github.com/user-attachments/assets/auth-system.png)](https://github.com/user-attachments/assets/auth-system.png)
+<a href="https://github.com/user-attachments/assets/7800e25e-490f-480a-bf68-3e2479a2ad7c" target="_blank">
+  <img src="https://github.com/user-attachments/assets/7800e25e-490f-480a-bf68-3e2479a2ad7c" alt="Authentication System" width="800"/>
+</a>
+
 *Secure login with demo mode and user profiles*
 
 ### 🎯 Wellness Hub & Nutrition
-[![Wellness Hub](https://github.com/user-attachments/assets/wellness-nutrition.png)](https://github.com/user-attachments/assets/wellness-nutrition.png)
+<a href="https://github.com/user-attachments/assets/2735f709-02c7-4452-add9-b14de87c0923" target="_blank">
+  <img src="https://github.com/user-attachments/assets/2735f709-02c7-4452-add9-b14de87c0923" alt="Wellness Hub & Nutrition" width="800"/>
+</a>
+
 *Interactive wellness programs with detailed nutrition tracking*
+
+### 📱 Full Dashboard View
+<a href="https://github.com/user-attachments/assets/dd4d4d2b-0d44-485e-a56a-b441b838eef0" target="_blank">
+  <img src="https://github.com/user-attachments/assets/dd4d4d2b-0d44-485e-a56a-b441b838eef0" alt="Full Dashboard View" width="800"/>
+</a>
+
+*Complete vertical layout showcasing all dashboard components*
 
 ---
 
@@ -76,8 +96,8 @@
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/username/fitos-dashboard.git
-cd fitos-dashboard
+git clone https://github.com/Krushna4142/FitOS-dashboard.git
+cd FitOS-dashboard
 
 # Install dependencies
 npm install

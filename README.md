@@ -15,28 +15,28 @@
 
 ## 📸 Live Screenshots
 
-### 🏠 Dashboard Overview
+###  🤖 AI Health Assistant
 <a href="https://github.com/user-attachments/assets/41e8fd9f-c1d1-4957-906d-6c9383779844" target="_blank">
   <img src="https://github.com/user-attachments/assets/41e8fd9f-c1d1-4957-906d-6c9383779844" alt="Dashboard Overview" width="800"/>
 </a>
 
 *Complete health dashboard with metrics, analytics, and wellness tracking*
 
-### 🤖 AI Health Assistant  
+### 🎯 Wellness Hub & Nutrition  
 <a href="https://github.com/user-attachments/assets/a01f1167-1364-4ff5-aea1-b09f09e05045" target="_blank">
   <img src="https://github.com/user-attachments/assets/a01f1167-1364-4ff5-aea1-b09f09e05045" alt="AI Health Assistant" width="800"/>
 </a>
 
 *Intelligent health guidance with personalized recommendations*
 
-### 🔐 Authentication System
+### 🏠 Dashboard Overview
 <a href="https://github.com/user-attachments/assets/7800e25e-490f-480a-bf68-3e2479a2ad7c" target="_blank">
   <img src="https://github.com/user-attachments/assets/7800e25e-490f-480a-bf68-3e2479a2ad7c" alt="Authentication System" width="800"/>
 </a>
 
 *Secure login with demo mode and user profiles*
 
-### 🎯 Wellness Hub & Nutrition
+### 🔐 Authentication System
 <a href="https://github.com/user-attachments/assets/2735f709-02c7-4452-add9-b14de87c0923" target="_blank">
   <img src="https://github.com/user-attachments/assets/2735f709-02c7-4452-add9-b14de87c0923" alt="Wellness Hub & Nutrition" width="800"/>
 </a>
